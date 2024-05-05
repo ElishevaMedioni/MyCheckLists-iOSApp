@@ -1,6 +1,7 @@
 # MyCheckLists iOS App
 
 MyCheckLists is a simple iOS app for creating and managing checklists organized by categories. It allows users to add and delete categories and checklist items with ease.
+
 This project was developed as part of the iOS Development Bootcamp offered by [App Brewery](https://www.appbrewery.co/).
 
 
