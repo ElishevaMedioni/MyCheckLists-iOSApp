@@ -34,7 +34,8 @@ This project was developed as part of the iOS Development Bootcamp offered by [A
 
 ## Screenshots
 
-![image](https://github.com/ElishevaMedioni/MyCheckLists-iOSApp/assets/73399121/04a15f2c-246c-4ac2-a138-33fb396cf06f)
+<img width="951" alt="Capture d’écran 2024-05-08 à 15 41 45" src="https://github.com/ElishevaMedioni/MyCheckLists-iOSApp/assets/73399121/64d0ac37-d21d-4262-8d15-b98b43e22889">
+
 
 
 ## Contributing
